@@ -25,6 +25,7 @@ This branch is for building TWRP 3.x.
 
 ### Credits :
   - Aryan Kedare
+  - Rohan Taneja
   - Adam Belamri
   - Sandeep Sethi
   - My Brain
